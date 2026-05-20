@@ -9,7 +9,6 @@
 - 短视频口播去 AI 味
 - 朋友圈文案去 AI 味
 - 私域营销文案去 AI 味
-- 高客单 IP 文案去 AI 味
 - ChatGPT 生成中文文案后的人话改写
 
 ## 文件结构
@@ -34,7 +33,7 @@ humanizer-lanbo-skill/
 使用时可以直接说：
 
 ```text
-使用 humanizer-lanbo-skill skill，帮我把下面这篇文案去 AI 味，只输出正文。
+使用 humanizer-lanbo-skill，帮我把下面这篇文案去 AI 味，只输出正文。
 ```
 
 ## Codex 使用方式
